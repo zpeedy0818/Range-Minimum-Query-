@@ -20,10 +20,6 @@ El proyecto incluye herramientas de benchmarking, una demostración interactiva 
 ```text
 ├── Documentacion/
 │   ├── RMQ Manual de uso.pdf    # Manual formal en formato PDF
-│   ├── INFORME_DE_USO.md        # Guía rápida de uso de cada script
-│   ├── guion_presentacion.md    # Guión guía estructurado para exposiciones
-│   ├── documento_rmq.tex        # Código fuente LaTeX del artículo académico
-│   └── informe_de_uso.tex       # Código fuente LaTeX del informe de uso
 ├── rmq_benchmark.py             # Script de benchmarking & demo interactiva
 ├── rmq_benchmark_plot.png       # Gráfica generada por el benchmark
 ├── rmq_gui.py                   # Interfaz de usuario interactiva y animada
